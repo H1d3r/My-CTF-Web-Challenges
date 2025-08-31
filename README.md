@@ -24,6 +24,10 @@ And you can find me via:
 
 ## **Table of Content**
 
+* [HITCON 2025](#Pholyglot)
+    * [Pholyglot](#Pholyglot)
+    * [No Man's Echo](#No-Mans-Echo)
+
 * [HITCON 2021](#W3rmup-PHP)
     * [W3rmup PHP](#W3rmup-PHP)
     * [One-Bit Man](#One-Bit-Man)
@@ -83,6 +87,58 @@ And you can find me via:
     * [SQLPWN](#sqlpwn)
     
 <br>
+
+
+## **Pholyglot**
+  
+Difficulty: **★★**  
+Solved: **31 / 717**  
+Tag:   **PHP**, **SQLite**
+
+#### Source Code
+
+* [Source](hitcon-ctf-2025/pholyglot/)  
+
+#### Idea
+
+* [VACUUM](https://www.sqlite.org/lang_vacuum.html)
+* [BabyFirst Revenge v2](#babyfirst-revenge-v2)
+
+#### Solution
+
+* TBD
+
+#### Write Ups
+
+* TBD
+
+
+
+
+## **No Man's Echo**
+  
+Difficulty: **★★**  
+Solved: **53 / 717**  
+Tag:   **PHP**, **TCP/IP**
+
+#### Source Code
+
+* [Source](hitcon-ctf-2025/no-mans-echo/)  
+
+#### Idea
+
+* [TCP Client Self-Connect (2013)](https://sgros.blogspot.com/2013/08/tcp-client-self-connect.html)
+
+#### Solution
+
+* TBD
+
+#### Write Ups
+
+* TBD
+
+
+
 
 ## **W3rmup PHP**
   
